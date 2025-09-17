@@ -1,0 +1,25 @@
+# Game Title
+ChronoShift
+
+## Concept
+This is a fast-paced puzzle adventure where players manipulate time to solve challenges and escape mysterious levels.
+
+## Gameplay
+Players must navigate through interconnected rooms filled with traps and obstacles. The twist: they can rewind and fast-forward time to alter objects, solve puzzles, and outsmart enemies. The objective is to escape each level by unlocking doors and finding hidden keys.
+
+## Unique Features
+- Time-manipulation mechanic that changes how puzzles and enemies behave.
+- Multiple solutions to each puzzle, encouraging creativity.
+- Dynamic environments that respond differently when time is altered.
+
+## Target Audience
+Gamers aged 12+ who enjoy puzzles, strategy, and immersive adventure experiences.
+
+## Art Style & Theme
+Minimalist but atmospheric — glowing neon aesthetics with shadowy environments, similar to *Tron* meets *Monument Valley*.
+
+## Inspiration
+Inspired by games like *Braid*, *Portal*, and *The Witness*, with a focus on unique puzzle-solving mechanics.
+
+## Tools or Platforms
+Unity (for PC & mobile release).
