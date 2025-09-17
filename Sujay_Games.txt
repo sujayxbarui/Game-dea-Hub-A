@@ -1,0 +1,26 @@
+# Game Title
+Skybound Odyssey
+
+## Concept
+An open-world adventure where players soar across floating islands in the sky, uncovering secrets, battling sky pirates, and restoring balance to a fractured world.
+
+## Gameplay
+Players control an airship and a customizable hero. They can explore islands, solve environmental puzzles, trade with merchants, and engage in aerial battles against enemies. The main objective is to collect ancient relics scattered across the islands to rebuild the world’s core and prevent it from collapsing.
+
+## Unique Features
+- Fully explorable sky islands with dynamic weather and day-night cycles.
+- Airship combat with upgrades, cannons, and crew management.
+- Seamless transition between flying and exploring islands on foot.
+- Choices that affect alliances with factions (sky pirates, merchants, guardians).
+
+## Target Audience
+Adventure and RPG lovers, ages 13+ who enjoy exploration, strategy, and epic storytelling.
+
+## Art Style & Theme
+Vibrant cel-shaded style inspired by *The Legend of Zelda: Wind Waker* with a mix of steampunk aesthetics for the airships. The theme blends fantasy and adventure with lighthearted yet epic tones.
+
+## Inspiration
+Inspired by *Skies of Arcadia*, *Wind Waker*, and *No Man’s Sky*, combining exploration with story-driven adventure.
+
+## Tools or Platforms
+Unreal Engine (PC & console release).
